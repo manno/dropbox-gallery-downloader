@@ -1,0 +1,5 @@
+Downloader for dropbox public galleries
+
+Usage:
+  ./download_dropbox_gallery.rb "http://www.dropbox.com/gallery/12345678/1/title?h=id"
+  ./download_dropbox_gallery.rb -u "http://www.dropbox.com/gallery/12345678/1/title?h=id" -d ~/Desktop/ -f original
