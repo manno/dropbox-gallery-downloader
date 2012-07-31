@@ -1,5 +1,5 @@
-Downloader for dropbox public galleries
+Downloader for dropbox shmodels. Previously downloaded dropbox galleries.
 
 Usage:
-  ./download_dropbox_gallery.rb "http://www.dropbox.com/gallery/12345678/1/title?h=id"
-  ./download_dropbox_gallery.rb -u "http://www.dropbox.com/gallery/12345678/1/title?h=id" -d ~/Desktop/ -f original
+  ./download_dropbox_gallery.rb "https://www.dropbox.com/sh/[ID1]/[ID2]/[TITLE]"
+  ./download_dropbox_gallery.rb -u "https://www.dropbox.com/sh/[ID1]/[ID2]/[TITLE]" -d ~/Desktop/
